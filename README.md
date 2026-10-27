@@ -4,7 +4,7 @@
 
 Data, scripts, and outputs from Jose et al (2026): "Two putative instances of evolutionary loss of CAM photosynthesis within the plant clade Cistantheae."
 
-### In this repository, you will find:
+#### In this repository, you will find:
 
 R script and data frame for analyzing titration data
   - Fig2_CAM_titration_analyses.R
