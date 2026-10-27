@@ -22,7 +22,7 @@ library(brglm2)
 # Load points & rasters
 # Make sure these files are under the working directory
 df <- read.csv("2025_data_elev_bioclim.csv")
-pred <- rast(list.files("bioclim_output/", pattern="\\.asc$", full.names = TRUE))
+pred <- rast(list.files("bioclim_output/", pattern="\\.asc$", full.names = TRUE)) #download bioclim from https://www.worldclim.org/data/bioclim.html
 
 # Filter for species of interest
 # 1. North American un
