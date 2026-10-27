@@ -13,7 +13,6 @@ R script and data frame for analyzing titration data
 R script and data frame for species distribution models and RDS files from species distribution GLM outputs
   - Fig3_SDM
       - 2025_data_elev_bioclim.csv
-      - bioclim_output.zip
       - Niche_GLM.R
       - RDS_files
           - by_species (12 .rds files for re-loading results)
